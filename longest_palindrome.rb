@@ -1,3 +1,4 @@
+# Write a function that will take a string and return the indices of the start/end of the longest palindrome it contains.
 def longest_p(str)
   s = 0
   e = 0
